@@ -1,0 +1,7 @@
+com\hex\service\CarService.class
+com\hex\port\CarRepositoryPort.class
+com\hex\HexagonalApplication.class
+com\hex\port\CarUIPort.class
+com\hex\adapter\CarControllerAdapter.class
+com\hex\domain\Car.class
+com\hex\adapter\CarServiceAdapter.class
